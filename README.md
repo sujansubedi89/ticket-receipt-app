@@ -192,8 +192,7 @@ Replace `https://your-api.com/tickets` with your actual server endpoint.
 
 ## 👨‍💻 Author
 
-**Your Name**
-Junior Python Developer
+**Sujan subedi**
 Built for Websoft — Offline Ticket System Project
 
 ---
