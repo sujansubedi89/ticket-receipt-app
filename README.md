@@ -153,7 +153,7 @@ To connect to a real backend, open `sync_helper.py` and uncomment:
 import requests
 
 response = requests.post(
-    "https://your-api.com/tickets",
+    "https://api.com/tickets",
     json={
         "ticket_no": ticket_no,
         "customer":  customer,
@@ -164,7 +164,7 @@ response = requests.post(
 )
 ```
 
-Replace `https://your-api.com/tickets` with your actual server endpoint.
+
 
 ---
 
