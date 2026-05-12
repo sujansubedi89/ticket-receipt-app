@@ -59,7 +59,7 @@ ticket-receipt-app/
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourname/ticket-receipt-app.git
+git clone https://github.com/sujansubedi89/ticket-receipt-app.git
 cd ticket-receipt-app
 ```
 
